@@ -66,5 +66,7 @@ After analysing the simulated output,
 
 ## Output
 <img width="1919" height="894" alt="Screenshot 2026-02-07 155134" src="https://github.com/user-attachments/assets/e27f4e89-3b68-439d-a1ca-7e3ba1b51517" />
+
 ## Result
+
 Thus the experiment is simulated and verified sucessfully.
